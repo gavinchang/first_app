@@ -1,4 +1,6 @@
 SampleApp::Application.routes.draw do
+  get "client/index"
+
   resources :users
 
   get "pages/home"
