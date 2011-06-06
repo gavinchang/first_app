@@ -8,6 +8,7 @@ gem 'rails', '3.0.5'
 gem 'mysql2'
 gem 'haml'
 gem 'cancan'
+gem 'friendly_id'
 
 group :development do
   gem 'rspec-rails'
